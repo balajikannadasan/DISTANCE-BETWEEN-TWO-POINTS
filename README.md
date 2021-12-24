@@ -10,9 +10,9 @@ Prepare the lists from each linear equations and assign in np.array()
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4:
-print using .format model
+Print using .format model
 ### Step 5:
-print the coding
+Print the coding
 ### PROGRAM:
 ~~~
  #Program to find the distance between between two points.
@@ -33,3 +33,4 @@ print the coding
 
 
 ### RESULT:
+Thus the python program to find the distance between two points are executed successfully
